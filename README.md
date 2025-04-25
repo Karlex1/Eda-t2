@@ -20,3 +20,9 @@
 8. **Interactive Plots**: Use Plotly for better exploration.
 
    
+# Key Insights
+-Women and children survived more.
+
+-First-class had better survival chances.
+
+-Smaller families had higher survival rates.
